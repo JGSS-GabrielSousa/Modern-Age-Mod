@@ -1,14 +1,15 @@
-#2887 - Santa Catarina
+# - Uruguaiana
 
 owner = BRZ
 controller = BRZ
 add_core = BRZ
-culture = brazilian
+is_city = yes
 religion = catholic
-capital = "Florianópolis"
-trade_goods = coal
+culture = brazilian
+capital = "Uruguaiana"
+trade_goods = tobacco
 hre = no
-base_tax = 1
+base_tax = 1 
 base_production = 1
 base_manpower = 1
 

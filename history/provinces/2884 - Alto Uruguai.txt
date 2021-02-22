@@ -1,14 +1,15 @@
-#2887 - Santa Catarina
+# - Alto Uruguai
 
 owner = BRZ
 controller = BRZ
 add_core = BRZ
+is_city = yes
 culture = brazilian
 religion = catholic
-capital = "Florianópolis"
-trade_goods = coal
+capital = "Passo Fundo"
+trade_goods = tea
 hre = no
-base_tax = 1
+base_tax = 1 
 base_production = 1
 base_manpower = 1
 

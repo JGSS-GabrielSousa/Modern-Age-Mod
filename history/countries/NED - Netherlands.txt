@@ -1,9 +1,10 @@
 government = monarchy
-add_government_reform = feudalism_reform
+add_government_reform = parliamentary_reform
 government_rank = 1
 technology_group = modern
 primary_culture = dutch
 add_accepted_culture = flemish
+add_accepted_culture = frisian
 religion = catholic
 capital = 4383 #Haag
 elector = yes

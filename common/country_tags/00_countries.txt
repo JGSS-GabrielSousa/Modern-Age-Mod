@@ -46,6 +46,9 @@ WAL	= "countries/Wallachia.txt"
 HUN	= "countries/Hungary.txt"
 SLO = "countries/Slovakia.txt"
 TUR	= "countries/Ottomans.txt"
+RNM	= "countries/NorthMacedonia.txt"
+KOS	= "countries/Kosovo.txt"
+LBR	= "countries/Liberland.txt"
 
 #British Isles 
 CNN = "countries/Connacht.txt"
@@ -71,34 +74,6 @@ FLY = "countries/Faly.txt"
 MCM = "countries/MacCarthy.txt" #Kingdom of Desmond
 KOI = "countries/Mann.txt"
 LOI = "countries/TheIsles.txt"
-
-#Colonies
-BRZ	= "countries/Brazil.txt"
-CAN	= "countries/Canada.txt"
-CHL	= "countries/Chile.txt"
-COL	= "countries/Colombia.txt"
-HAT	= "countries/Haiti.txt"
-LAP	= "countries/LaPlata.txt"
-LOU	= "countries/Louisiana.txt"
-MEX	= "countries/Mexico.txt"
-PEU	= "countries/Peru.txt"
-PRG	= "countries/Paraguay.txt"
-QUE	= "countries/Quebec.txt"
-CAM	= "countries/UPCA.txt"
-USA	= "countries/USA.txt"
-VNZ	= "countries/Venezuela.txt"
-AUS = "countries/Australia.txt"
-CAL = "countries/California.txt"
-TEX = "countries/Texas.txt"
-CSC = "countries/Cascadia.txt"
-ALA = "countries/Alaska.txt"
-NZL = "countries/Zealandia.txt"
-ILI = "countries/Illinois.txt"
-FLO = "countries/Florida.txt"
-VRM = "countries/Vermont.txt"
-SNA = "countries/Sonora.txt"
-WSI = "countries/WestIndies.txt"
-CUB = "countries/Cuba.txt"
 
 #Eastern Europe
 DNZ	= "countries/Danzig.txt"
@@ -140,7 +115,7 @@ PRO	= "countries/Provence.txt"
 SPI	= "countries/SardiniaPiedmont.txt"
 TOU	= "countries/Toulouse.txt"
 BER	= "countries/Berry.txt"
-	
+
 #HRE
 AAC = "countries/Aachen.txt" 
 ANH	= "countries/Anhalt.txt"
@@ -264,14 +239,17 @@ ZAZ	= "countries/Zaporozhie.txt"
 NOG	= "countries/Nogai.txt"
 SIB	= "countries/Sibir.txt"
 PLT	= "countries/Polotsk.txt"
-PRM = "countries/Perm.txt"
+PRM 	= "countries/Perm.txt"
 FEO	= "countries/Theodoro.txt"
 BSH	= "countries/Bashkiria.txt"
-BLO = "countries/Beloozero.txt"
-RSO = "countries/Rostov.txt"
-
+BLO 	= "countries/Beloozero.txt"
+RSO 	= "countries/Rostov.txt"
+BLR 	= "countries/Belarus.txt"
 GOL	= "countries/GreatHorde.txt"
 GLH = "countries/GoldenHorde.txt"
+BLR 	= "countries/Belarus.txt"
+ABK 	= "countries/Abkhazia.txt"
+OSS 	= "countries/SouthOssetia.txt"
 
 #Arabia	
 ADE	= "countries/Aden.txt"
@@ -939,6 +917,42 @@ COB = "countries/Coburg.txt"
 LOT = "countries/Lotharingia.txt"
 PGA = "countries/Perugia.txt"
 
+#South America
+BRZ	= "countries/Brazil.txt"
+CHL	= "countries/Chile.txt"
+COL	= "countries/Colombia.txt"
+PEU	= "countries/Peru.txt"
+PRG	= "countries/Paraguay.txt"
+LAP	= "countries/LaPlata.txt"
+VNZ	= "countries/Venezuela.txt"
+URU	= "countries/Uruguay.txt"
+RGS	= "countries/RioGrandeDoSul.txt"
+SLP	= "countries/Sul.txt"
+
+#Central America
+CAM	= "countries/UPCA.txt"
+HAT	= "countries/Haiti.txt"
+CUB = "countries/Cuba.txt"
+WSI = "countries/WestIndies.txt"
+
+#North America
+CAN	= "countries/Canada.txt"
+LOU	= "countries/Louisiana.txt"
+MEX	= "countries/Mexico.txt"
+QUE	= "countries/Quebec.txt"
+USA	= "countries/USA.txt"
+CAL = "countries/California.txt"
+TEX = "countries/Texas.txt"
+CSC = "countries/Cascadia.txt"
+ALA = "countries/Alaska.txt"
+ILI = "countries/Illinois.txt"
+FLO = "countries/Florida.txt"
+VRM = "countries/Vermont.txt"
+SNA = "countries/Sonora.txt"
+
+#Oceania
+AUS = "countries/Australia.txt"
+NZL = "countries/Zealandia.txt"
 
 # 1.30 Formables
 TTS = "countries/Two Sicilies.txt"
