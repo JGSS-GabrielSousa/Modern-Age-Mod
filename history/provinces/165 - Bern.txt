@@ -1,0 +1,23 @@
+#165 - Bern
+
+owner = SWI
+controller = SWI 
+add_core = SWI
+culture = swiss
+religion = catholic
+capital = "Bern"
+trade_goods = iron
+hre = no
+base_tax = 5 
+base_production = 5
+base_manpower = 3
+is_city = yes
+fort_15th = yes
+extra_cost = 8
+center_of_trade = 1
+
+discovered_by = western
+discovered_by = eastern
+discovered_by = muslim
+discovered_by = ottoman
+discovered_by = modern

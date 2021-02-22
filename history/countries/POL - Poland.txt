@@ -1,0 +1,10 @@
+government = republic
+primary_culture = polish
+religion = catholic
+technology_group = modern
+historical_rival = RUS
+capital = 257 # Warszawa
+add_accepted_culture = prussian
+add_accepted_culture = pommeranian
+
+national_focus = ADM

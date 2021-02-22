@@ -1,0 +1,20 @@
+#1951 - Hunyad
+
+owner = RMN
+controller = RMN
+culture = transylvanian
+religion = orthodox
+capital = "Turda"
+trade_goods = salt # Famous salt mines
+hre = yes
+base_tax = 2
+base_production = 2
+base_manpower = 2
+is_city = yes
+add_core = RMN
+add_core = TRA
+
+extra_cost = 8
+center_of_trade = 1
+
+discovered_by = modern

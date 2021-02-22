@@ -1,0 +1,17 @@
+#Kovno
+
+owner = LIT
+controller = LIT
+culture = lithuanian
+religion = catholic
+capital = "Kovno"
+trade_goods = livestock
+hre = yes
+base_tax = 3
+base_production = 3
+base_manpower = 1
+is_city = yes
+fort_15th = yes
+add_core = LIT
+
+discovered_by = modern

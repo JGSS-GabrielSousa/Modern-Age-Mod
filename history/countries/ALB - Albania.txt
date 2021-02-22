@@ -1,0 +1,7 @@
+government = republic
+add_government_reform = autocracy_reform
+government_rank = 1
+primary_culture = albanian
+religion = catholic
+technology_group = modern
+capital = 4175 # Lezhe

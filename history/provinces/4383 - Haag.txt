@@ -1,0 +1,27 @@
+# 4383 South Holland - Principal cities: Den Haag, Delft, Leiden
+
+owner = NED
+controller = NED
+add_core = NED
+capital = "'s-Gravenhage"
+is_city = yes
+culture = dutch
+religion = catholic
+hre = yes
+base_tax = 6
+base_production = 6
+trade_goods = cloth
+base_manpower = 3
+fort_15th = yes
+extra_cost = 10
+
+discovered_by = eastern
+discovered_by = western
+discovered_by = muslim
+discovered_by = ottoman
+
+add_permanent_province_modifier = {
+	name = rhine_estuary_modifier
+	duration = -1
+}
+discovered_by = modern

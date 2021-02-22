@@ -1,0 +1,17 @@
+#63 - Erfurt
+
+owner = GER
+controller = GER
+add_core = GER
+culture = saxon
+religion = catholic
+capital = "Erfurt"
+trade_goods = dyes #Woad, also a center for glassmaking
+hre = yes
+base_tax = 5
+base_production = 4
+base_manpower = 3
+is_city = yes
+center_of_trade = 1
+
+discovered_by = modern

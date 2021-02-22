@@ -1,0 +1,7 @@
+government = republic
+add_government_reform = feudalism_reform
+technology_group = modern
+religion = catholic
+primary_culture = lombard
+capital = 118		# Roma
+elector = yes

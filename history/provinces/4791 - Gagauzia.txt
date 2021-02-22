@@ -1,0 +1,17 @@
+owner = MOL
+controller = MOL
+culture = turkish
+religion = orthodox
+capital = "Comrat"
+trade_goods = wine
+hre = no
+base_tax = 1
+base_production = 1
+base_manpower = 1
+is_city = yes
+add_core = MOL
+add_core = GAU
+add_local_autonomy = 100
+unrest = 6
+
+discovered_by = modern

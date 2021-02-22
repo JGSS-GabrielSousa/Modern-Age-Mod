@@ -1,0 +1,8 @@
+government = republic
+government_rank = 1
+primary_culture = ruthenian
+religion = orthodox
+technology_group = modern
+historical_friend = RUS
+historical_rival = MOL
+capital = 4790

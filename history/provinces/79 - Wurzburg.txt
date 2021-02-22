@@ -1,0 +1,16 @@
+#79 - Würzburg
+
+owner = GER
+controller = GER
+add_core = GER
+culture = franconian
+religion = catholic
+base_tax = 4
+base_production = 4
+trade_goods = wine
+base_manpower = 3
+capital = "Würzburg"
+hre = yes
+
+is_city = yes
+discovered_by = modern

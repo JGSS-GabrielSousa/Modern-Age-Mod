@@ -1,0 +1,6 @@
+government = republic
+add_government_reform = feudalism_reform
+technology_group = modern
+primary_culture = greek
+religion = orthodox
+capital = 146	# Athens

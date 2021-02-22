@@ -1,0 +1,15 @@
+bookmark =
+{
+	name = "Modern Age"
+	desc = "Modern Age"
+	date = 2000.1.1
+	
+	country = USA
+	country = FRA
+	country = HAB
+	country = HUN
+	country = GRE
+	country = DAN
+	country = SWE
+	country = POL
+}

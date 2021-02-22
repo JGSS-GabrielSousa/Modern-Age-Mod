@@ -1,0 +1,16 @@
+#258 - Lodz
+
+owner = POL
+controller = POL
+capital = "Sieradz"
+culture = polish
+religion = catholic
+trade_goods = grain
+hre = yes
+base_tax = 3
+base_production = 3
+base_manpower = 1
+is_city = yes
+add_core = POL
+
+discovered_by = modern

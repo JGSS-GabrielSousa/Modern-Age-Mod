@@ -1,0 +1,16 @@
+#49 - Neumark
+
+owner = POL
+controller = POL
+add_core = POL
+culture = saxon
+religion = catholic
+hre = yes
+base_tax = 2 
+base_production = 2
+trade_goods = livestock
+base_manpower = 2
+capital = "Landsberg"
+is_city = yes
+
+discovered_by = modern

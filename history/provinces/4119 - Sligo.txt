@@ -1,0 +1,16 @@
+#4119 - Sligo
+
+owner = IRE
+controller = IRE
+culture = irish
+religion = catholic
+hre = yes
+base_tax = 3
+base_production = 3
+trade_goods = naval_supplies
+base_manpower = 2
+capital = "Sligo"
+is_city = yes
+add_core = IRE
+
+discovered_by = modern

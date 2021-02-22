@@ -1,0 +1,17 @@
+#2406 - Ingil
+
+owner = KIE
+controller = KIE
+culture = crimean
+religion = sunni
+hre = no
+base_tax = 1
+base_production = 1
+trade_goods = wine
+base_manpower = 1
+capital = "Kyzy-Kermen"
+is_city = yes
+add_core = KIE
+add_core = ZAZ
+
+discovered_by = modern

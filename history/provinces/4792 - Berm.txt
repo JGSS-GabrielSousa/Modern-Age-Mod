@@ -1,0 +1,16 @@
+#4792 - Berm
+
+owner = SAH
+controller = SAH
+add_core = MOR
+add_core = SAH
+culture = berber
+religion = sunni
+capital = "Tifariti"
+trade_goods = livestock
+hre = no
+base_tax = 1 
+base_production = 1
+base_manpower = 1
+
+discovered_by = modern

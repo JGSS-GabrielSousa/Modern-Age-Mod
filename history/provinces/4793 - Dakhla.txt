@@ -1,0 +1,17 @@
+#4793 - Dakhla
+
+owner = MOR
+controller = MOR
+add_core = MOR
+add_core = SAH
+unrest = 5
+culture = berber
+religion = sunni
+capital = "Dakhla"
+trade_goods = livestock
+hre = no
+base_tax = 1 
+base_production = 1
+base_manpower = 1
+
+discovered_by = modern

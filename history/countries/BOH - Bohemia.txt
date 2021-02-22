@@ -1,0 +1,8 @@
+government = monarchy
+add_government_reform = feudalism_reform
+primary_culture = czech
+religion = catholic
+capital = 266 # Praha
+technology_group = modern
+add_accepted_culture = sorbian
+add_army_professionalism = 0.1

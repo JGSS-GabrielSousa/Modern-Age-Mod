@@ -1,0 +1,16 @@
+#159 - Silistria
+
+owner = RMN
+controller = RMN
+culture = bulgarian
+religion = orthodox
+capital = "Silistra"
+trade_goods = fish
+hre = yes
+base_tax = 2
+base_production = 2
+base_manpower = 2
+is_city = yes
+add_core = RMN
+
+discovered_by = modern

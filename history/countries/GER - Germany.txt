@@ -1,0 +1,16 @@
+government = republic
+add_government_reform = feudalism_reform
+technology_group = modern
+primary_culture = saxon
+add_accepted_culture = swabian
+add_accepted_culture = pommeranian
+add_accepted_culture = lower_saxon
+add_accepted_culture = prussian
+add_accepted_culture = hannoverian
+add_accepted_culture = hessian
+add_accepted_culture = franconian
+add_accepted_culture = bavarian
+add_accepted_culture = austrian
+religion = catholic
+capital = 50	# Berlin
+elector = yes

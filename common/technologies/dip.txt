@@ -1,0 +1,159 @@
+monarch_power = DIP
+
+# applied when a country is ahead of time in this technology
+ahead_of_time = {
+	trade_efficiency = 0.2
+	yearly_corruption = -0.05
+}
+
+technology = {
+	# Tech 89
+	year = 1980
+
+	#Naval Missiles
+	naval_morale = 2.0
+	range = 200
+	may_fabricate_claims = yes
+	merchants = yes
+	trade_range = 100
+	global_colonial_growth = 10
+	enable = barque
+	trade_range = 100
+	enable = cog
+	enable = galley
+	marketplace = yes 
+	enable = barque
+	enable = early_carrack
+	marketplace = yes 
+	coastal_defence = yes
+	dock = yes
+	may_steal_maps = yes
+	impressment_offices = yes
+	shipyard = yes
+	may_study_technology = yes
+	wharf = yes
+	may_slander_merchants = yes
+	naval_battery = yes
+	tradecompany = yes
+	may_sabotage_recruitment = yes
+	trade_depot = yes
+	may_sow_discontent = yes
+	drydock = yes
+	may_sabotage_reputation = yes
+	stock_exchange = yes
+	reduced_naval_attrition = yes
+	allow_client_states = yes
+	grand_shipyard = yes 
+	may_corrupt_officials = yes
+	may_agitate_for_liberty = yes
+	may_infiltrate_administration = yes
+}
+
+technology = {
+	# Tech 90
+	year = 1995
+
+	#The Internet
+	naval_morale = 0.1
+	naval_maintenance =  0.1
+	range = 200
+	trade_efficiency = 0.02
+	global_colonial_growth = 15
+	num_accepted_cultures = 1
+	enable = carrack
+	enable = caravel
+	enable = flute
+	enable = war_galley
+}
+
+technology = {
+	# Tech 91
+	year = 2025
+
+	#Nanotechnology
+	trade_efficiency = 0.05
+	naval_maintenance = 0.1
+	trade_efficiency = 0.02
+	range = 200
+	enable = brig
+	enable = galleass
+}
+
+technology = {
+	# Tech 92
+	year = 2040
+
+	#Future Diplomacy 1
+	naval_morale = 0.5
+	enable = galleon
+	enable = early_frigate
+	enable = merchantman
+}
+
+technology = {
+	# Tech 93
+	year = 2080
+
+	#Future Diplomacy 2
+	trade_efficiency = 0.05
+	enable = galiot
+	enable = wargalleon
+	enable = frigate
+	enable = chebeck
+}
+
+technology = {
+	# Tech 94
+	year = 2120
+
+	#Future Diplomacy 3
+	naval_maintenance = 0.1
+	enable = twodecker
+	enable = trabakul
+}
+
+technology = {
+	# Tech 95
+	year = 2160
+
+	#Future Diplomacy 4
+	naval_morale = 0.5
+	enable = heavy_frigate
+}
+
+technology = {
+	# Tech 96
+	year = 2200
+
+	#Future Diplomacy 5
+	trade_range = 20
+	enable = archipelago_frigate
+}
+
+technology = {
+	# Tech 97
+	year = 2240
+
+	#Future Diplomacy 6
+	num_accepted_cultures = 1
+	enable = threedecker
+}
+
+technology = {
+	# Tech 98
+	year = 2280
+
+	#Future Diplomacy 7
+	naval_morale = 0.5
+	enable = eastindiaman
+	enable = great_frigate
+}
+
+technology = {
+	# Tech 99
+	year = 2320
+
+	#Future Diplomacy 8
+	trade_efficiency = 0.05
+	naval_maintenance = 0.1
+}

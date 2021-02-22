@@ -1,0 +1,17 @@
+#158 - Maros
+
+owner = RMN
+controller = RMN
+culture = transylvanian #Szeklers
+religion = catholic
+capital = "Targu Mures"
+trade_goods = wool
+hre = yes
+base_tax = 3 
+base_production = 3
+base_manpower = 2
+is_city = yes
+add_core = RMN
+add_core = TRA
+
+discovered_by = modern

@@ -1,0 +1,9 @@
+government = republic
+add_government_reform = feudalism_reform
+government_rank = 1
+technology_group = modern
+religion = catholic
+primary_culture = flemish
+add_accepted_culture = wallonian
+capital = 92	# Brussel
+elector = yes

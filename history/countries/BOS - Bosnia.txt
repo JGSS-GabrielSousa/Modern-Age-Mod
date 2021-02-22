@@ -1,0 +1,7 @@
+government = republic
+add_government_reform = feudalism_reform
+primary_culture = bosnian
+add_accepted_culture = croatian
+religion = sunni
+technology_group = modern
+capital = 3002	# Sarajevo

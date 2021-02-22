@@ -1,0 +1,16 @@
+# 4525 - Dobryzn
+
+owner = POL
+controller = POL
+capital = "Dobrzyn"
+is_city = yes
+culture = polish
+religion = catholic
+trade_goods = grain
+hre = yes
+base_tax = 2
+base_production = 1
+base_manpower = 1
+add_core = POL
+
+discovered_by = modern

@@ -1,0 +1,16 @@
+#77 - Heidelberg
+
+owner = GER
+controller = GER
+add_core = GER
+capital = "Heidelberg"
+culture = hessian
+religion = catholic
+trade_goods = wine
+base_tax = 5
+base_production = 4
+base_manpower = 4
+is_city = yes
+hre = yes
+
+discovered_by = modern

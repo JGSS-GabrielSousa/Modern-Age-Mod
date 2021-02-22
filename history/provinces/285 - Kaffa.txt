@@ -1,0 +1,23 @@
+#285 - Kaffa
+
+owner = RUS
+controller = RUS
+culture = pontic_greek
+religion = orthodox
+hre = no
+base_tax = 4
+base_production = 4
+trade_goods = wine
+base_manpower = 2
+capital = "Kaffa"
+is_city = yes
+unrest = 5
+
+add_core = RUS
+add_core = CRI
+add_core = KIE
+
+extra_cost = 16
+center_of_trade = 2
+
+discovered_by = modern

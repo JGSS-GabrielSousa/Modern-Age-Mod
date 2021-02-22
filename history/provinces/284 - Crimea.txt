@@ -1,0 +1,20 @@
+#284 - Crimea
+
+owner = RUS
+controller = RUS
+culture = crimean
+religion = sunni
+hre = no
+base_tax = 6
+base_production = 6
+trade_goods = salt
+base_manpower = 6
+capital = "Qirq-Yer"
+is_city = yes
+fort_15th = yes #Qirq-Yer Fortress
+unrest = 5
+add_core = KIE
+add_core = RUS
+add_core = CRI
+
+discovered_by = modern

@@ -1,0 +1,17 @@
+#Åland
+
+owner = SWE
+controller = SWE
+add_core = SWE
+add_core = FIN
+culture = swedish
+religion = catholic
+capital = "Mariehamn"
+is_city = yes
+hre = no
+base_tax = 1 
+base_production = 1
+base_manpower = 1
+trade_goods = fish
+
+discovered_by = modern

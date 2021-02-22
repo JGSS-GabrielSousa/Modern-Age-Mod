@@ -1,0 +1,9 @@
+government = republic
+add_government_reform = noble_elite_reform
+government_rank = 1
+primary_culture = lithuanian
+religion = catholic
+technology_group = modern
+historical_friend = LIV
+historical_friend = EST
+capital = 272 # Vilnius

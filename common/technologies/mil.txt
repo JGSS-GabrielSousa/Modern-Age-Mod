@@ -1,0 +1,75 @@
+monarch_power = MIL
+
+# applied when a country is ahead of time in this technology
+# no bonus for MIL currently
+# ahead_of_time = {
+# }
+
+# Pre-era techs
+technology = {
+	# Tech 1
+	year = 1980
+	
+	sprite_level = 1
+
+	infantry_fire		= 	0.25
+	infantry_shock 		= 	0.20	
+	cavalry_shock  		= 	0.8	
+	land_morale 		= 	2.0
+	
+	fort_15th = yes
+	
+	enable = mixed_order_infantry
+	enable = eastern_knights
+	enable = flying_battery
+	enable = french_dragoon
+	barracks = yes
+	regimental_camp = yes
+	weapons = yes
+	training_fields = yes
+	conscription_center = yes
+	ae_impact = 0.2
+}
+
+technology = {
+	# Tech 2
+	year = 2000
+	
+	land_morale = 0.5
+	military_tactics = 0.25
+}
+
+technology = {
+	# Tech 3
+	year = 2020
+	
+	land_morale = 0.5
+	military_tactics = 0.25
+	fort_16th = yes
+}
+
+technology = {
+	# Tech 4
+	year = 2040
+	
+	land_morale = 0.5
+	military_tactics = 0.25
+}
+
+technology = {
+	# Tech 4
+	year = 2080
+
+	land_morale = 0.5
+	military_tactics = 0.25
+	fort_17th = yes
+}
+
+technology = {
+	# Tech 4
+	year = 2100
+	
+	land_morale = 0.5
+	military_tactics = 0.25
+	fort_18th = yes	
+}

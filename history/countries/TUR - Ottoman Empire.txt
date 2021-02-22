@@ -1,0 +1,17 @@
+government = monarchy
+add_government_reform = ottoman_government
+primary_culture = turkish
+religion = sunni
+technology_group = modern
+historical_rival = GRE
+capital = 149 # Edirne
+religious_school = hanafi_school
+
+change_estate_land_share = {
+	estate = estate_church
+	share = -10
+}
+change_estate_land_share = {
+	estate = estate_nobles
+	share = 10
+}

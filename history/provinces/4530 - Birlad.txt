@@ -1,0 +1,16 @@
+#4530 - Birlad
+
+owner = RMN
+controller = RMN
+culture = romanian
+religion = orthodox
+capital = "Birlad"
+trade_goods = wine
+hre = yes
+base_tax = 2
+base_production = 1
+base_manpower = 1
+is_city = yes
+add_core = RMN
+
+discovered_by = modern

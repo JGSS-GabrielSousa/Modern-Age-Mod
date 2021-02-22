@@ -1,0 +1,16 @@
+#4533 - Weielun
+
+owner = POL
+controller = POL
+capital = "Wielun"
+culture = polish
+religion = catholic
+trade_goods = cloth
+hre = yes
+base_tax = 3
+base_production = 3
+base_manpower = 1
+is_city = yes
+add_core = POL
+
+discovered_by = modern

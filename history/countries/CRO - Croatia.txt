@@ -1,0 +1,7 @@
+government = republic
+add_government_reform = feudalism_reform
+primary_culture = croatian
+religion = catholic
+add_accepted_culture = dalmatian
+technology_group = modern
+capital = 131	# Zagreb

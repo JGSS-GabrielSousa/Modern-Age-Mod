@@ -1,0 +1,21 @@
+government = republic
+add_government_reform = military_dictatorship_reform
+primary_culture = berber
+religion = sunni
+technology_group = modern
+historical_rival = MOR
+capital = 4793
+religious_school = maliki_school
+
+change_estate_land_share = {
+	estate = estate_nobles
+	share = 5
+}
+change_estate_land_share = {
+	estate = estate_burghers
+	share = 5
+}
+change_estate_land_share = {
+	estate = estate_church
+	share = -10
+}

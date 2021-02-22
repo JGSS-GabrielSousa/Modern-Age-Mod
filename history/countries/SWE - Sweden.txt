@@ -1,0 +1,19 @@
+government = republic
+add_government_reform = feudalism_reform
+technology_group = modern
+unit_type = western
+primary_culture = swedish
+religion = catholic
+add_accepted_culture = finnish
+capital = 1	#Stockholm
+
+national_focus = MIL
+
+change_estate_land_share = {
+	estate = estate_church
+	share = -6
+}
+change_estate_land_share = {
+	estate = estate_nobles
+	share = 10
+}
